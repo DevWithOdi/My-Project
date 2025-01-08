@@ -1,0 +1,20 @@
+HTML and CSS
+_______________________________________________________________
+Code Example:
+_______________________________________________________________
+<!DOCTYPE html>                                                             
+<html>                                                                      
+  <head>                                                                    
+    <title>Hello World</title>                                              
+  </head>                                                                   
+  <body>                                                                    
+    <h1>Hello, World!</h1>                                                  
+    <p>Welcome to learning HTML!</p>                                        
+  </body>                                                                   
+</html>                                                                     
+_______________________________________________________________
+
+Visual Studio Code: Lightweight and powerful editor.
+Sublime Text: Lightweight alternative.
+Any modern browser (Chrome, Firefox, Edge) to preview HTML/CSS.
+_______________________________________________________________
