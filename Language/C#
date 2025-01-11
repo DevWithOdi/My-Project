@@ -1,0 +1,29 @@
+___
+𝘾#
+_____________
+𝘾𝙤𝙙𝙚 𝙀𝙭𝙖𝙢𝙥𝙡𝙚:
+___________________________________________
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+___________________________________________
+𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚:
+___________________________________
+Visual Studio: Official IDE.-> https://viVisual Studio: Official IDE.sualstudio.microsoft.com/pt-br/ Visual Studio: Official IDE.
+Rider: JetBrains' alternative IDE.-> https://www.jetbrains.com/rider/
+___________________________________
+𝙁𝙧𝙚𝙚 𝙎𝙩𝙪𝙙𝙮 𝙍𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨:
+____________________________________
+Microsoft Learn: Official tutorials.-> https://learn.microsoft.com/en-us/dotnet/csharp/
+SoloLearn: Introductory course on C#.-> https://www.sololearn.com/pt/
+_____________________________________
+𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩𝙨:
+___________________________________
+C# Complete Tutorial - FreeCodeCamp -> https://m.youtube.com/watch?v=GhQdlIFylQ8
