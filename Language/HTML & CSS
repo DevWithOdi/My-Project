@@ -1,7 +1,7 @@
 _______________________________________________________________
-HTML and CSS
+𝙃𝙏𝙈𝙇 𝙖𝙣𝙙 𝘾𝙎𝙎
 _______________________________________________________________
-##Code Example:
+𝘾𝙤𝙙𝙚 𝙀𝙭𝙖𝙢𝙥𝙡𝙚:
 _______________________________________________________________
 <!DOCTYPE html>                                                             
 <html>                                                                      
@@ -14,28 +14,31 @@ _______________________________________________________________
   </body>                                                                   
 </html>                                                                     
 _______________________________________________________________
-###Indication Software:
+𝙄𝙣𝙙𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚:
 _______________________________________________________________
-Visual Studio Code: Lightweight and powerful editor.
-Sublime Text: Lightweight alternative.
-Any modern browser (Chrome, Firefox, Edge) to preview HTML/CSS.
+𝙑𝙞𝙨𝙪𝙖𝙡 𝙎𝙩𝙪𝙙𝙞𝙤 𝘾𝙤𝙙𝙚: 𝙇𝙞𝙜𝙝𝙩𝙬𝙚𝙞𝙜𝙝𝙩 𝙖𝙣𝙙 𝙥𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙚𝙙𝙞𝙩𝙤𝙧.
 
+𝙎𝙪𝙗𝙡𝙞𝙢𝙚 𝙏𝙚𝙭𝙩: 𝙇𝙞𝙜𝙝𝙩𝙬𝙚𝙞𝙜𝙝𝙩 𝙖𝙡𝙩𝙚𝙧𝙣𝙖𝙩𝙞𝙫𝙚.
+
+𝘼𝙣𝙮 𝙢𝙤𝙙𝙚𝙧𝙣 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 (𝘾𝙝𝙧𝙤𝙢𝙚, 𝙁𝙞𝙧𝙚𝙛𝙤𝙭, 𝙀𝙙𝙜𝙚) 𝙩𝙤 𝙥𝙧𝙚𝙫𝙞𝙚𝙬 𝙃𝙏𝙈𝙇/𝘾𝙎𝙎.
 _______________________________________________________________
-Free Study Resources (English):
+𝙁𝙧𝙚𝙚 𝙎𝙩𝙪𝙙𝙮 𝙍𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨 (𝙀𝙣𝙜𝙡𝙞𝙨𝙝):
 __________________________________________________________________________
-https://developer.mozilla.org/en-US/docs/Web/HTML: Official documentation.
-freeCodeCamp: Practical HTML and CSS course.
+𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙙𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣.-> https://developer.mozilla.org/en-US/docs/Web/HTML 
 
-________________________________________________________________________________
-YouTube Playlists:
+𝙛𝙧𝙚𝙚𝘾𝙤𝙙𝙚𝘾𝙖𝙢𝙥: 𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙃𝙏𝙈𝙇 𝙖𝙣𝙙 𝘾𝙎𝙎 𝙘𝙤𝙪𝙧𝙨𝙚.
+___________________________________________________________________________
+𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩𝙨
 _________________________________________________________________________________
-[HTML5 Course - FreeCodeCamp] (https://www.youtube.com/watch?v=pQN-pnX9s3U)
-[CSS Crash Course - Traversy Media] (https://www.youtube.com/watch?v=YbJOTdZBX1g) 
+𝙃𝙏𝙈𝙇𝟱 𝘾𝙤𝙪𝙧𝙨𝙚 - 𝙁𝙧𝙚𝙚𝘾𝙤𝙙𝙚𝘾𝙖𝙢𝙥 -> https://www.youtube.com/watch?v=pQN-pnX9s3U
 
+𝘾𝙎𝙎 𝘾𝙧𝙖𝙨𝙝 𝘾𝙤𝙪𝙧𝙨𝙚 - 𝙏𝙧𝙖𝙫𝙚𝙧𝙨𝙮 𝙈𝙚𝙙𝙞𝙖 -> https://www.youtube.com/watch?v=YbJOTdZBX1g
 _________________________________________________________________________________
-######Free Study Resources (Portuguese):                                              
+𝙁𝙧𝙚𝙚 𝙎𝙩𝙪𝙙𝙮 𝙍𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨 (𝙋𝙤𝙧𝙩𝙪𝙜𝙪𝙚𝙨𝙚):                                              
 ________________________________________________________________________________________________________________________________________________
-https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n -> Curso de HTML - Curso em Vídeo: Complete HTML course in Portuguese. 
-https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL -> Curso de CSS - Origamid: Free CSS tutorials in Portuguese. 
-https://www.youtube.com/watch?v=KjYHCV1hb4w -> HTML5 e CSS3 - Gustavo Guanabara: Another great free HTML and CSS playlist.
-                                                                                                                          
+𝘾𝙪𝙧𝙨𝙤 𝙙𝙚 𝙃𝙏𝙈𝙇 - 𝘾𝙪𝙧𝙨𝙤 𝙚𝙢 𝙑𝙞́𝙙𝙚𝙤: 𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚 𝙃𝙏𝙈𝙇 𝙘𝙤𝙪𝙧𝙨𝙚 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙪𝙚𝙨𝙚. -> https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+
+𝘾𝙪𝙧𝙨𝙤 𝙙𝙚 𝘾𝙎𝙎 - 𝙊𝙧𝙞𝙜𝙖𝙢𝙞𝙙: 𝙁𝙧𝙚𝙚 𝘾𝙎𝙎 𝙩𝙪𝙩𝙤𝙧𝙞𝙖𝙡𝙨 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙪𝙚𝙨𝙚. -> https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL 
+
+𝙃𝙏𝙈𝙇𝟱 𝙚 𝘾𝙎𝙎𝟯 - 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝙂𝙪𝙖𝙣𝙖𝙗𝙖𝙧𝙖: 𝘼𝙣𝙤𝙩𝙝𝙚𝙧 𝙜𝙧𝙚𝙖𝙩 𝙛𝙧𝙚𝙚 𝙃𝙏𝙈𝙇 𝙖𝙣𝙙 𝘾𝙎𝙎 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩. -> https://www.youtube.com/watch?v=KjYHCV1hb4w 
+_________________________________________________________________________________________________________________________________________________
